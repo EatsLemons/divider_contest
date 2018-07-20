@@ -6,6 +6,7 @@ https://www.microsoft.com/net/download/linux-package-manager/ubuntu16-04/sdk-2.1
 
 - cd DividerContest
 - dotnet run
+
 and it will listen :9093
 
 # Request
