@@ -1,0 +1,14 @@
+F:\Projects\DividerContest\DividerContest\bin\Debug\netcoreapp2.1\DividerContest.deps.json
+F:\Projects\DividerContest\DividerContest\bin\Debug\netcoreapp2.1\DividerContest.runtimeconfig.json
+F:\Projects\DividerContest\DividerContest\bin\Debug\netcoreapp2.1\DividerContest.runtimeconfig.dev.json
+F:\Projects\DividerContest\DividerContest\bin\Debug\netcoreapp2.1\DividerContest.dll
+F:\Projects\DividerContest\DividerContest\bin\Debug\netcoreapp2.1\DividerContest.pdb
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.csprojAssemblyReference.cache
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.csproj.CoreCompileInputs.cache
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.RazorAssemblyInfo.cache
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.RazorAssemblyInfo.cs
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.AssemblyInfoInputs.cache
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.AssemblyInfo.cs
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.RazorTargetAssemblyInfo.cache
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.dll
+F:\Projects\DividerContest\DividerContest\obj\Debug\netcoreapp2.1\DividerContest.pdb
